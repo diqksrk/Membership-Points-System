@@ -64,10 +64,10 @@ BACK END<br/>
 
 ### 5. 폴더 구조
 ![image](https://user-images.githubusercontent.com/31757314/180652094-c07a789e-4868-4856-889d-de32e63c9b11.png)<br/>
-application : Service 및 응답 Response 위치 <br/>
-Domain Model : Domain Entity 및 중요 비즈니스 로직 위치.<br/>
-Infrastructure : 공통 클래스 및 설정 파일 위치<br/>
-presentation : Controller 및 Request 요청 클래스 위치.<br/>
+1) application : Service 및 응답 Response 위치 <br/>
+2) Domain Model : Domain Entity 및 중요 비즈니스 로직 위치.<br/>
+3) Infrastructure : 공통 클래스 및 설정 파일 위치<br/>
+4) presentation : Controller 및 Request 요청 클래스 위치.<br/>
 Domain 역할과 비즈니스 로직과 외부 계층과의 의존성과 결합도를 최소화하고 싶었습니다.<br/>
 그래서 <br/>
 Presentation layer : 외부 요청을 처리하는 영역<br/>
