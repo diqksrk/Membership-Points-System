@@ -82,7 +82,7 @@ Application layer : 외부영역과 Domain 영역 사이에서 추상화 역할�
 ![image](https://user-images.githubusercontent.com/31757314/183233779-b40891a1-7e07-40f0-8ffc-f9d9fa3072fe.png)
 
 1. 고려사항 - 바코드 발급시 다음 발급 바코드 번호는 예측이 가능해서는 안된다.<br/>
-   해결법   : 미리 barcodes 테이블에 바코드 번호를 일일 배치를 통해 저장해논 뒤 Random Row를 꺼낸 Rand()함수를 통해 해당 문제를 해결.<br/>
+   해결법   : 미리 barcodes 테이블에 바코드 번호를 일일 배치를 통해 저장해논 뒤 Random Row를 꺼 Rand()함수를 통해 해당 문제를 해결.<br/>
 
 (2) 포인트 적립<br/>
 ![image](https://user-images.githubusercontent.com/31757314/183233876-bf5bf100-771a-45e3-bf29-245cebf27837.png)
