@@ -34,12 +34,6 @@ BACK END<br/>
 ![image](https://user-images.githubusercontent.com/31757314/180651252-7a739d6b-69e4-419c-afb3-3fae12f87d46.png)
 
 ### 4. 구현 항목 및 API
-전체 구현 API<br/>
-1. 멤버십 회원에게 바코드 발급<br/>
-2. 발급된 바코드로 업장에서 사용시 포인트 적립<br/>
-3. 적립된 포인트 사용<br/>
-4. 적립, 시용 포인트 이력 조회<br/>
-(1) Post /api/barcode/issue : 바코드를 발급한다.<br/>
 <br/>Request : <br/>
 ![image](https://user-images.githubusercontent.com/31757314/180654915-04add0ec-c3bb-454f-b2e6-539edaf6bdfc.png)
 <br/>Response : <br/>
