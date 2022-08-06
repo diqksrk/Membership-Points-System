@@ -10,7 +10,7 @@
 <br>
 &nbsp;&nbsp;5.   폴더 구조
 <br>
-&nbsp;&nbsp;6.   구현 고려사항과 구현 이유
+&nbsp;&nbsp;6.   구현 흐름, 고려사항
 <br>
 &nbsp;&nbsp;7.   이후 추가적으로 고려할 사항
 <br>
