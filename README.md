@@ -78,6 +78,9 @@ Application layer : 외부영역과 Domain 영역 사이에서 추상화 역할�
 
 ### 6. 구현 고려사항과 구현 이유
 (1) 바코드 발급<br/>
+![image](https://user-images.githubusercontent.com/31757314/183233769-af038746-1928-4a0e-9337-a7330ddd2494.png)
+![image](https://user-images.githubusercontent.com/31757314/183233779-b40891a1-7e07-40f0-8ffc-f9d9fa3072fe.png)
+
 바코드 발급에서의 핵심사항은 다음 발급될 멤버십 바코드가 예측 가능해서는 안되다는 말이였습니다.<br/>
 해당 요구사항을 구현하기 위해 생각한 방식은 2가지였습니다.<br/>
 첫번째는, 바코드 발급이 올 경우 10가지 랜덤한 숫자를 통해 바코드를 발급하는 방식이였습니다.<br/>
