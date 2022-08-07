@@ -126,3 +126,4 @@ Application layer : 외부영역과 Domain 영역 사이에서 추상화 역할�
 2. point history테이블은 포인트 적립 이력과 사용 이력을 저장하는 테이블입니다. 해당 테이블에 대한 트랜잭션은 왕성하다고 생각됩니다. 따라서 Mysql Master - slave구조를 활용하여, 쓰기는 Master에 읽을시 Slave를 읽음으로써 부하를 감소시킬수 있습니다.
 
 ### 8. 성능 측정
+네이버의 nGrinder을 사용하여 성능 측정을 시도하였습니다.
