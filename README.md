@@ -29,7 +29,7 @@ BACK END<br/>
 <img src="https://img.shields.io/badge/Swagger-231F20?style=for-the-badge&logo=Swagger&logoColor=white">  
 <img src="https://img.shields.io/badge/querydsl-4479A1?style=for-the-badge&logo=querydsl&logoColor=white">
 
-### 2. 테이블 ERD
+### 2. 테이블 ERD 
 ![image](https://user-images.githubusercontent.com/31757314/180645966-59c0225e-98a3-49f6-830a-e1b04fbcf54d.png)
 
 ### 3. BACKEND ARCHITECTURE 구축 예상도
