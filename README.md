@@ -19,8 +19,6 @@
 
 ### 1. 사용한 기술스택 목록
 BACK END<br/>
-<img src="https://img.shields.io/badge/VueJs-DB7093?style=for-the-badge&logo=VueJs&logoColor=white">
-
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-007396?style=for-the-badge&logo=MySQL&logoColor=white">
