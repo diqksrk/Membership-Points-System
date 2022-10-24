@@ -137,3 +137,8 @@ Application layer : 외부영역과 Domain 영역 사이에서 추상화 역할�
 <br/>
 1개 에이전트 2개 쓰레드를 총 20총간 실행했고, 총 73개의 요청이 있었습니다.<br/>
 TPS(Transcation for second)는 9.1초이고 평균 226.79ms의 응답시간을 확인했습니다.
+
+
+
+
+<img src="https://img.shields.io/badge/ncp-D24939?style=for-the-badge&logo=ncp&logoColor=white"> <img src="https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
