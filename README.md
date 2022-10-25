@@ -141,4 +141,5 @@ TPS(Transcation for second)는 9.1초이고 평균 226.79ms의 응답시간을 �
 
 
 
-<img src="https://img.shields.io/badge/ncp-D24939?style=for-the-badge&logo=ncp&logoColor=white"> <img src="https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-231F20?style=for-the-badge&logo=MongoDB&logoColor=white">  
+<img src="https://img.shields.io/badge/Fluendtd-4479A1?style=for-the-badge&logo=Fluendtd&logoColor=white">
